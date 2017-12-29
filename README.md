@@ -1,4 +1,4 @@
-A minimalistic implementation of TARANTULA in Python.
+<b>A minimalistic implementation of TARANTULA in Python.<b>
 
 
 
